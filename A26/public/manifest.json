@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "A26 Driver Mobile App",
+  "short_name": "A26 Driver",
+  "description": "Mobile Delivery & Logistics App for A-Twenty Six Trading Truck Drivers",
+  "start_url": "/?mode=driver",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/driver-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/driver-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "A-TWENTY SIX TRADING — Construction Supply ERP",
+  "description": "Comprehensive construction supply management system for A-TWENTY SIX TRADING: POS, inventory control, delivery dispatch, project ledger, equipment rentals, and accounts receivable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
